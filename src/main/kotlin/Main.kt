@@ -1,9 +1,5 @@
 fun main() {
-    println("enter your name ")
-    val name = readLine()
-    
-    println("hello $name!")
-
-
-
+    println("please enter your city ")
+    val city = readLine()
+    println("User lives in $city! ")
 }
